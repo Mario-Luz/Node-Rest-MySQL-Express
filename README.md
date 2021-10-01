@@ -1,6 +1,6 @@
 # Node-Rest-MySQL-Express
 
-Este projeto é uma aplicação de cadastro de atendimentos  desenvolvida `NODEJS` `Express`, `MySQL`. 
+Este projeto é uma aplicação de cadastro de atendimentos  desenvolvida utilizando `NODEJS` `Express`, `MySQL`. 
 
 ### Dependências utilizados
 ```console
