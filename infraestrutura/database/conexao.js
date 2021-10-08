@@ -4,7 +4,7 @@ const conexao = mysql.createConnection({
     host: 'localhost',
     port: 3306,
     user: 'root',
-    password: '',
+    password: '007007',
     database: 'agenda-petshop'
 })
 
